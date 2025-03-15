@@ -27,7 +27,7 @@ const skills = {
 
 ## 📊 GitHub Stats
 
-![Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utsavisthebest&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utsavisthebest&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
